@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Yoon Hajung 👋
 
-<!--
-**YHaJung/YHaJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student who is studying Computer Science at Ewha Womans University in South Korea.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on CodeIng as a Frontend Developer. (I made frontend of http://www.codeing.site/ , which is still in development.)
+- 🌱 I’m currently learning Deep Learning and Database.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### What I learned
+Programming Language : Python Java C/C++ Javascript Typescript Dart
+Framework : Flutter Angular Django
+Frontend Language : html css
+Library : OpenCV OpenGL
+Etc. : Git Firebase Bash Ubuntu MIPS ARM
