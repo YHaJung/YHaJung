@@ -2,7 +2,7 @@
 I am a student who is studying Computer Science at Ewha Womans University in South Korea.
 - 🔭 I’m currently working on CodeIng as a Frontend Developer.  
 I made frontend of http://www.codeing.site/ , which is still in development.
-- 🌱 I’m currently learning Deep Learning and Database.
+- 🌱 I’m currently learning Deep Learning
 
 ### What I learned
 Programming Language : Python Java C/C++ Javascript Typescript Dart  
