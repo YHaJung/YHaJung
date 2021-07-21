@@ -1,6 +1,6 @@
 ### Hi, I'm Yoon Hajung 👋
 I am a student who is studying Computer Science at Ewha Womans University in South Korea.
-- 🔭 I’m currently working on CodeIng as a Recommendation System Developer.  
+- 🔭 I’m currently working on CodeIng as a Recommendation System & Frontend Developer.  
 I made frontend of http://www.codesum.net/ , which is still in development.  
 - 🔭 I’m currently making an AI algorithm for Hits-Hike Project.  
 - :kissing_heart: I like working in a team project.  
