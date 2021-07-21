@@ -16,3 +16,6 @@ Etc. : Git Firebase Bash Ubuntu MIPS ARM
 ### If you want to know about me more  
 https://sites.google.com/view/hajung  
 Here is my website  
+
+https://velog.io/@recoder  
+It is my blog
