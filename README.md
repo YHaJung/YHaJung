@@ -18,10 +18,9 @@ Library : OpenCV OpenGL
 Etc. : Git Firebase Bash Ubuntu MIPS ARM  
 
 ### If you want to know about me more  
-
-https://velog.io/@recoder  
-It is my blog  
+Here is my blog  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=recoder)](https://velog.io/@recoder)  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=recoder&tag=AI)](https://velog.io/@recoder/series)  
 
 https://sites.google.com/view/hajung  
 Here is my website  
-
