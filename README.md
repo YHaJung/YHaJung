@@ -1,5 +1,5 @@
 ### Hi, I'm Yoon Hajung 👋
-I am a student who is studying Computer Science at Ewha Womans University in South Korea.  
+I am a student who is studying Computer Science in South Korea.  
 I am interested in AI, which makes the seemingly impossible possible.  
 
 -  👊 I’m currently working on CodeIng as a Recommendation System.  
