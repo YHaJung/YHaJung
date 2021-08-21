@@ -2,7 +2,7 @@
 I am a student who is studying Computer Science in South Korea.  
 I am interested in AI, which makes the seemingly impossible possible.  
 
--  👊 I’m currently working on CodeIng as a Recommendation System.  
+-  👊 I’m currently working on CodeIng as a Recommendation System Developer.  
   - 🔭I made frontend of http://www.codesum.net/ , which is still in development.  
 - 👊 I’m developing an AI algorithm for Hits-Hike Project.  
 - 👊 I'm participating in Naver BoostCamp AI-Tech.  
@@ -11,8 +11,8 @@ I am interested in AI, which makes the seemingly impossible possible.
 - ✍ I’m currently learning Deep Learning  
 
 ### What I learned
-Programming Language : Python Java C/C++ Javascript Typescript Dart  
-Framework : Flutter Angular Django  
+Programming Language : Python Java C/C++ Javascript Typescript. 
+Framework : Flutter Angular  
 Frontend Language : html css  
 Library : OpenCV OpenGL  
 Etc. : Git Firebase Bash Ubuntu MIPS ARM  
