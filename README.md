@@ -6,7 +6,7 @@ I am interested in AI, which makes the seemingly impossible possible.
 - ✍ I’m currently learning Deep Learning  
 
 ### What I learned
-Programming Language : Python Java C/C++ Javascript Typescript. 
+Programming Language : Python Java C/C++ Javascript Typescript  
 Framework : Flutter Angular  
 Frontend Language : html css  
 Library : OpenCV OpenGL  
