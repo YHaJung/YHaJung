@@ -2,11 +2,6 @@
 I am a student who is studying Computer Science in South Korea.  
 I am interested in AI, which makes the seemingly impossible possible.  
 
--  👊 I’m currently working on CodeIng as a Recommendation System Developer.  
-  - 🔭I made frontend of http://www.codesum.net/ , which is still in development.  
-- 👊 I’m developing an AI algorithm for Hits-Hike Project.  
-- 👊 I'm participating in Naver BoostCamp AI-Tech.  
-  
 - 👨‍👨‍👧‍👦 I like working in a team project.  
 - ✍ I’m currently learning Deep Learning  
 
