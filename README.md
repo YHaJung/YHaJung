@@ -8,6 +8,9 @@ AI : PyTorch
 Forntend : Flutter Angular  
 
 ### If you want to know about me more  
+This is my [CV](https://www.canva.com/design/DAExePJRroI/Px-SuOofP8HDIFagDSCBRA/view?utm_content=DAExePJRroI&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+
+
 Here is my blog  
 - After 2022 : [![Gitblog Home](https://img.shields.io/badge/Gitblog-181717?&logo=Github&logoColor=white)](https://yhajung.github.io/) 
 
